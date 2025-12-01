@@ -10,7 +10,6 @@
 - Network connectivity
 
 ---
- ![alt text](<evidence/Screenshot 2025-12-01 155954.png>)
 # 🔵 **LEVEL 1 – FOUNDATIONAL SKILLS**
 *Mastering Core Linux Administration*
 

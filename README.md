@@ -12,6 +12,8 @@
 ---
 # 🔵 **LEVEL 1 – FOUNDATIONAL SKILLS**
 *Mastering Core Linux Administration*
+![alt text](<evidence/Screenshot 2025-12-01 163621.png>)
+evidence/Screenshot 2025-12-01 163621.png
 
 ## ✅ **1. SET UP USERS & GROUPS FOR DEV TEAM**
 
@@ -22,6 +24,7 @@
 # Expert-level user management with security best practices
 
 set -e  # Exit on error
+
 
 echo "🔵 LEVEL 1 - STEP 1: User & Group Setup"
 echo "========================================"
